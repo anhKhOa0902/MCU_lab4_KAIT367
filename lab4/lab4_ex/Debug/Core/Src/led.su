@@ -1,0 +1,9 @@
+led.c:15:6:offLed	8	static
+led.c:21:6:LedBlinking	8	static
+led.c:24:6:amber_led	8	static
+led.c:27:6:pink_led	8	static
+led.c:30:6:white_led	8	static
+led.c:33:6:dot_blink	8	static
+led.c:37:6:time_run	4	static
+led.c:52:6:display7SEG	16	static
+led.c:173:6:LEDScanning	8	static
